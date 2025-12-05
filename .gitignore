@@ -1,0 +1,83 @@
+# =====================================
+# Eclipse IDE
+# =====================================
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Eclipse working directories
+.metadata/
+bin/
+tmp/
+
+# Local history
+.localhistory/
+
+# =====================================
+# Java
+# =====================================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# =====================================
+# Build Tools (if used later)
+# =====================================
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# =====================================
+# OS / Editor Specific
+# =====================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code (if opened there)
+.vscode/
+
+# IntelliJ (if you decide to open in IDEA)
+.idea/
+*.iml
+
+# =====================================
+# Others
+# =====================================
+
+# Generated files
+out/
+
+# Ignore screenshots or other temporary files
+*.png
+*.jpg
+*.jpeg
+*.gif
